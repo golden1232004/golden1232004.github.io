@@ -1,8 +1,0 @@
----
-layout: default
-title: hello new world
----
-
-<h2>{{ page.title }}</h2>
-<p>my first paper</p>
-<p>{{ page.date | date_to_string }}</p>
