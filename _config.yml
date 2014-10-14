@@ -3,7 +3,7 @@ port: 4000
 #pygments: false
 highlighter: false
 lsi: false
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 # paginate: 50
 markdown: rdiscount
 # enables SmartyPants (nice curly quotation marks, em/en dashes, elipses, etc):
