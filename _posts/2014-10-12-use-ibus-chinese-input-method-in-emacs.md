@@ -1,8 +1,10 @@
 ---
 title: "如何在emacs中是使用ibus中文输入法?"
 layout: post
+photo_url: /res/emacs.png
 comments: yes
 ---
+## 如何在emacs中是使用ibus中文输入法?
 
 在emacs中是使用ibus中文输入法,需要自己手动配置, 具体如下:
 
