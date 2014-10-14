@@ -1,5 +1,4 @@
 port: 4000
-#host: 0.0.0.0
 #pygments: false
 highlighter: false
 lsi: false
@@ -12,4 +11,3 @@ rdiscount:
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
 include: [".well-known"]
-#auto: true
