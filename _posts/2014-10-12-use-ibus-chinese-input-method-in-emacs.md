@@ -17,6 +17,7 @@ comments: yes
     (ibus-define-common-key ?\C-/ nil)  ;; C-/:撤消快捷键
     (setq ibus-cursor-color '("red" "blue" "limegreen")) ;; Change cursor color depending on IBus status
     </code></pre>
+> Note: 上述代码全用英文字符, 复制容易出错.
 
 一般情况下,按照上述两步操作基本搞定.
 
