@@ -9,7 +9,7 @@ forkosh上提供了关于Latex公式的一份简短而很有用的帮助，参�
 
 使用forkosh插入公式的方法是
 
-\<img src="http://www.forkosh.com/mathtex.cgi? 在此处插入Latex公式"\>
+< img src="http://www.forkosh.com/mathtex.cgi? 在此处插入Latex公式" >
 
 给个例子:
 
